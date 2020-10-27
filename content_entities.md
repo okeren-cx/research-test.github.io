@@ -6,7 +6,7 @@ title: Platform Content Entities
 # Content Entities Platform
 
 
-<img src="/public/platform_entities_diagram.png" alt="image-20201027175233525" style="zoom:67%;" />
+ ![Entity Diagram]({{ site.url }}/public/images/platform_entities_diagram.png)
 
 ## `models/content`
 
