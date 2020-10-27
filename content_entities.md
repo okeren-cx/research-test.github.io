@@ -3,15 +3,12 @@ layout: page
 title: Platform Content Entities
 ---
 
-# Content Entities Platform
-
-
  ![Entity Diagram](./public/images/platform_entities_diagram.png)
 
 ## `models/content`
 
 - `challenge` 
-  - I think this is the "main" content, so like a question for the tournaments or a precise challenge
+  - A specific challenge, used both in platform and in the tournaments
   - Table Name: `content_challenges`
   - paranoid
   - has many: `challenges` as in `models/challenge`
@@ -28,7 +25,7 @@ title: Platform Content Entities
   - Table Name: `content_courses`
   - has_many: `lessons`
 - `game`
-  - ??
+  - A collection of challenges
   - Table Name: `content_games`
   - name has to be unique
   - number of questions has to be  `0 <= x <= 30`
