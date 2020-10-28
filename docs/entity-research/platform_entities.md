@@ -5,7 +5,23 @@ parent: Entity Research
 nav_order: 1
 ---
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [`models/content`](#modelscontent)
+- [`content/definitions`](#contentdefinitions)
+- [`models/`](#models)
+- [`models/v2`](#modelsv2)
+- [`models/learning_resource`](#modelslearning_resource)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+
+
  ![Entity Diagram]({{ site.baseurl }}/assets/images/platform_entities_diagram.png)
+
 
 ## `models/content`
 
@@ -82,7 +98,7 @@ nav_order: 1
 
 
 
-## `models/` - More to do with linking content to internal logic, i.e: linking challenge to user
+## `models/`
 
 - `challenge`
 
@@ -141,7 +157,7 @@ nav_order: 1
 
     
 
-## `models/v2` - This is the "instance" copy of the model definitions and are used for internal logic within the platform
+## `models/v2`
 
 - `course`
   - This is an instance of a specifc course set up for the tenant. This is what each user sees when he looks at available courses

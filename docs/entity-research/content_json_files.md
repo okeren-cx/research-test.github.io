@@ -2,7 +2,7 @@
 layout: default
 title: JSON Structure
 parent: Entity Research
-nav_order: 2
+nav_order: 3
 ---
 
 # Content Entities JSONs
