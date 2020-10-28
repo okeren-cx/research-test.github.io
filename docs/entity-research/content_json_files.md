@@ -1,3 +1,10 @@
+---
+layout: default
+title: JSON Structure
+parent: Entity Research
+nav_order: 2
+---
+
 # Content Entities JSONs
 
 ## `content-json-files`
