@@ -7,8 +7,8 @@ nav_order: 1
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Relationship Diagram](#relationship-diagram)
 - [`models/content`](#modelscontent)
 - [`content/definitions`](#contentdefinitions)
 - [`models/`](#models)
@@ -16,10 +16,10 @@ nav_order: 1
 - [`models/learning_resource`](#modelslearning_resource)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+---
 
 
-
-
+## Relationship Diagram
  ![Entity Diagram]({{ site.baseurl }}/assets/images/platform_entities_diagram.png)
 
 

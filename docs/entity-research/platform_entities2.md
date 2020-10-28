@@ -7,8 +7,8 @@ nav_order: 2
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Relationship Diagram](#relationship-diagram)
 - [`challenge`](#challenge)
   - [`models/content/challenge`](#modelscontentchallenge)
   - [`models/challenge`](#modelschallenge)
@@ -47,8 +47,9 @@ nav_order: 2
   - [`models/content/cms_log`](#modelscontentcms_log)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+--- 
 
-
+## Relationship Diagram
  ![Entity Diagram]({{ site.baseurl }}/assets/images/platform_entities_diagram.png)
 
 
