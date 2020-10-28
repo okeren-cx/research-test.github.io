@@ -5,7 +5,7 @@ parent: Entity Research
 nav_order: 1
 ---
 
- ![Entity Diagram](../assets/images/platform_entities_diagram.png)
+ ![Entity Diagram]({{ site.baseurl }}/assets/images/platform_entities_diagram.png)
 
 ## `models/content`
 

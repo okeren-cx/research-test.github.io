@@ -14,14 +14,6 @@ As we continue to research and design the new Content Service, this site will be
 
 ---
 
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
