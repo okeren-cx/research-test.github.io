@@ -1,7 +1,7 @@
 ---
 layout: default
 title: New Entity Modeling
-nav_order: 91
+nav_order: 3
 ---
 
 # New Entity Modeling

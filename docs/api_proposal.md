@@ -1,7 +1,7 @@
 ---
 layout: default
 title: API Proposal
-nav_order: 90
+nav_order: 5
 ---
 
 # API Proposal
