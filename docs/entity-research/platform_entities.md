@@ -2,7 +2,7 @@
 layout: default
 title: Platform Content Entities
 parent: Entity Research
-nav_order: 2
+nav_order: 1
 ---
 
  ![Entity Diagram](../assets/images/platform_entities_diagram.png)
